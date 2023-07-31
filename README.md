@@ -4,7 +4,7 @@
 
 ## Objectives
 
-This repository contains a Jupyter notebook for the Credit Card Fraud Detection project. The main objective is to build and evaluate the performance of various classifiers to detect fraudulent credit card transactions with the aim of developing practical models for real-world use cases.
+This repository contains a Jupyter notebook for the Credit Card Fraud Detection project. The main objective is to build and evaluate the performance of various classifiers with hyperparameter tuning to detect fraudulent credit card transactions with the aim of developing practical models for real-world use cases.
 
 ## Dataset Information
 
